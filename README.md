@@ -54,7 +54,7 @@ Contributions to the project are welcome. If you find any bugs or issues, please
 If you encounter any issues or bugs with the project, please report them on the project's issue tracker.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ### Acknowledgements
 This project was inspired by the FreeCodeCamp Responsive Web Design Certification. 
